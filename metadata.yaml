@@ -1,0 +1,29 @@
+_repo: Vercing-torix_43871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jullian, Camille
+    alias: Jullian, Camille Louis
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '42445'
+    url: http://www.gutenberg.org/2009/agents/42445
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43871'
+  lccn: '02014332'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vercingetorix, Chief of the Arverni, -46 B.C.'
+- !lcc 'DC'
+title: Vercingétorix
+url: http://www.gutenberg.org/ebooks/43871
